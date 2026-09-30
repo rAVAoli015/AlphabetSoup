@@ -67,8 +67,8 @@ public class Soup {
     public void removeWord(String word){
         int position = letters.indexOf(word);
 
-        if position != -1{
-            letters = letters.substring(0,position) + letters.substring(position + word.length();)
+        if( position != -1){
+            letters = letters.substring(0,position) + letters.substring(position + word.length());
         }
     }
 }
