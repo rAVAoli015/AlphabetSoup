@@ -1,3 +1,8 @@
+//Name: Ava Huggins
+//Date: 09/24/25
+//Description: This program will alphabet soup
+
+
 public class Soup {
     //these are instance variables 
     private String letters;
